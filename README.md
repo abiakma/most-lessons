@@ -1,6 +1,12 @@
 # Most November Lessons
 
 
-## Introduction
+## Introduction\n
+```bash 
+Hello! My name is Akmaral.Welcome to my git.
+```
 
-Git code
+```shell 
+Hello! My name is Akmaral.Welcome to my git.
+```
+`git pull = git fetch + git merge `
